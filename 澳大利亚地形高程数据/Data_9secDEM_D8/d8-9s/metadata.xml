@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en"><Esri><MetaID>{BACE4246-5B84-4FD7-A175-7791FF8A6938}</MetaID><CreaDate>20080818</CreaDate><CreaTime>13284400</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process Name="CopyRaster_1" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyRaster" Date="20080818" Time="132844">CopyRaster Z:\aaDEMandD8\source\d8v3 Z:\aaDEMandD8\d8\esri\d8-9s # -9999 -9999 NONE NONE 16_BIT_SIGNED</Process></lineage></DataProperties></Esri></metadata>
